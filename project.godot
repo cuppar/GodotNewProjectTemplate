@@ -17,6 +17,7 @@ config/icon="res://icon.svg"
 
 [autoload]
 
+c="*res://autoloads/constants.gd"
 SceneTranslation="*res://addons/scene_translation/scene_translation.tscn"
 
 [editor_plugins]
